@@ -9,12 +9,12 @@ Sometimes it can't read the words directly, we need to perform simple image proc
 Before invert
 --------------
 ![alt text](https://github.com/arixlee/Extract-text-from-image-via-python/blob/master/trip%20cost.PNG)
-![alt text](https://github.com/arixlee/Extract-text-from-image-via-python/blob/master/cn_text.PNG)
+<br>![alt text](https://github.com/arixlee/Extract-text-from-image-via-python/blob/master/cn_text.PNG)
 
 After invert
 --------------
 ![alt text](https://github.com/arixlee/Extract-text-from-image-via-python/blob/master/INVT_trip%20cost.png)
-![alt text](https://github.com/arixlee/Extract-text-from-image-via-python/blob/master/INVT_cn_text.png)
+<br>![alt text](https://github.com/arixlee/Extract-text-from-image-via-python/blob/master/INVT_cn_text.png)
 
 End result
 ----------
