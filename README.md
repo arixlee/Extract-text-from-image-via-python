@@ -6,6 +6,6 @@ Thanks to Tesseract community, you may get trained file via this link https://gi
 
 Below was the end result screen shoot
 
-![alt text](https://raw.githubusercontent.com/arixlee/Extract-text-from-image-via-python/blob/master/INVT_cn_text.png)
+![alt text](https://github.com/arixlee/Extract-text-from-image-via-python/blob/master/INVT_cn_text.png)
 
 Just a simple python code, hope you enjoy~ 
